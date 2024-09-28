@@ -11,3 +11,9 @@
   backdrop-filter: blur(24px) saturate(180%);
   background-color: rgba(224, 231, 255, 0.15);
 }
+
+.scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #00284f #e0e7ff;
+  scrollbar-width: 2px;
+}
